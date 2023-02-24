@@ -6,7 +6,8 @@ Code is built upon cohere sandbox groundedQA (https://github.com/cohere-ai/sandb
 
 ## Current features
 
-- Simulation of with SMS Service with Africa is talking:
+Simulation of with SMS Service with Africa is talking:
+
 Steps to take: 
 1) Sign up for an africa's talking account (https://account.africastalking.com/auth/register/
 2) login (https://account.africastalking.com/auth/login/)
