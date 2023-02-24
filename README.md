@@ -1,4 +1,4 @@
-#MaverickAI
+# MaverickAI
 
 MaverickAI leverages advancements in AI to enable rural users to interact with powerful chatbots through SMS, eliminating the need for a 3G connection. By leveraging this technology, we aim to bridge the knowledge gap and empower rural communities.
 
