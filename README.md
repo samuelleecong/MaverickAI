@@ -9,7 +9,7 @@ Code is built upon cohere sandbox groundedQA (https://github.com/cohere-ai/sandb
 Simulation of with SMS Service with Africa is talking:
 
 Steps to take: 
-1) Sign up for an africa's talking account (https://account.africastalking.com/auth/register/
+1) Sign up for an africa's talking account (https://account.africastalking.com/auth/register/)
 2) login (https://account.africastalking.com/auth/login/)
 3) Go to the sandbox: https://developers.africastalking.com/simulator) 
 4) Key in any valid phone number
@@ -17,9 +17,7 @@ Steps to take:
 
 
 Web UI demo:
-- 
-
-
+Coming soon!
 
 ## Coming soon!
 
