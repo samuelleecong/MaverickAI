@@ -2,6 +2,8 @@
 
 MaverickAI leverages advancements in AI to enable rural users to interact with powerful chatbots through SMS, eliminating the need for a 3G connection. By leveraging this technology, we aim to bridge the knowledge gap and empower rural communities.
 
+Code is built upon cohere sandbox groundedQA (https://github.com/cohere-ai/sandbox-conversant-lib) and conversant(https://github.com/cohere-ai/sandbox-conversant-lib)
+
 ## Current features
 
 - Simulation of with SMS Service with Africa is talking:
@@ -14,7 +16,7 @@ Steps to take:
 
 
 Web UI demo:
-- Code is built upon cohere sandbox groundedQA (https://github.com/cohere-ai/sandbox-conversant-lib) and conversant(https://github.com/cohere-ai/sandbox-conversant-lib)
+- 
 
 
 
