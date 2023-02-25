@@ -16,7 +16,7 @@ Steps to take:
 5) Send a text to MaverickQA by texting 5959 (for factually grounded Questions and Answers) and MaverickChat by texting 59009 (for a chat experience)
 
 
-##Web UI demo for ease of access:
+## Web UI demo for ease of access:
 https://replit.com/@Incarceron/MaverickAI-demo?v=1
 
 ## Coming soon!
